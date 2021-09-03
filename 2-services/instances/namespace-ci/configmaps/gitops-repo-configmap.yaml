@@ -1,13 +1,13 @@
 apiVersion: v1
 data:
-  branch: <branch>
+  branch: demo-mq-v2-ldean0558
   host: github.com
-  org: <github-org>
-  owner: <github-id>
+  org: ldean0558
+  owner: ldean0558
   parentdir: .
   protocol: https
   repo: multi-tenancy-gitops
-  url: https://github.com/<github-org>/multi-tenancy-gitops.git
+  url: https://github.com/ldean0558/multi-tenancy-gitops.git
 kind: ConfigMap
 metadata:
   labels:
